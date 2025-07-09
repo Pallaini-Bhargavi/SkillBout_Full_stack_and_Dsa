@@ -1,0 +1,2 @@
+Python is a powerful programming language.
+This file contains multiple lines and several words for testing.
