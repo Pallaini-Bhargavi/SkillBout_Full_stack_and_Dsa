@@ -21,7 +21,6 @@ def validate_marks(marks):
             return False
     return True
 
-# --- Main program ---
 student_name = input("Enter student name: ")
 marks_input = input("Enter marks separated by space: ")
 
